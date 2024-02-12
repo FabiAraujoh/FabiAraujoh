@@ -3,7 +3,10 @@
 - 🔭 Atualmente estou a procura do meu primeiro estágio na área de técnologia.
 - 🌱 Estudando Python e concluindo a faculdade de Analise e Desenvolvimento de Sistemas.
 - 😄 Ela/Dela.
+
+  
 ##
+
 <div> 
   <a href="https://www.instagram.com/fabiaraujohh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabiellenn_@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
